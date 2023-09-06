@@ -10,7 +10,7 @@
   red hat/centOS
 # offline installation can be done by WAR file
 # apache tomcat is required to deploy jenkins
-# jenkins in macOS
+# jenkins in macOS(home brew)
   ~brew install jenkins-lts (downloads and updates)
   ~brew list(shows installations)
   ~brew services list(shows status of files)
